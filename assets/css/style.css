@@ -1,0 +1,39 @@
+body {
+	background-image: url("../images/moodbackgroud.jpg");
+}
+.btn {
+	margin-right: 10px;
+}
+
+form, input {
+	margin-right: 10px;
+}
+
+#moodInput {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+img {
+	margin: 10px;
+
+}
+#gifPanel {
+	border: solid #202015 2px;
+}
+#jumbo {
+	background-color: rgba(88, 86, 71, 0.726);
+	border: none;
+}
+#text {
+	color: white;
+}
+#panelBody {
+	background-color: rgba(88, 86, 71, 0.726);
+	border: 0;
+	box-shadow: none;
+	border-bottom: solid #202015 5px;
+}
+#rating {
+	margin: 10px;
+	color: white;
+}
